@@ -1,1 +1,1 @@
-print("Hello world"d))
+game:GetInfo("32")
