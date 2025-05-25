@@ -1,1 +1,1 @@
-game:GetInfo("32")
+game.Hury = false
